@@ -23,6 +23,7 @@ The doRead() method reads the file and returns a TwoDimensional Array of the map
     } 
 ```
 
+
 The ExplorationSimulator class takes care of the simulation.
 In the scan() method the rover scans the environment and returns a ressource if found. The method checks also if the rover is still on the map.
 ```js
