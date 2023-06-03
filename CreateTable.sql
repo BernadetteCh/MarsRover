@@ -1,0 +1,1 @@
+CREATE TABLE mars (steps INT, roverName TEXT, coordinateX INT, coordinateY INT, colonizable TEXT);
